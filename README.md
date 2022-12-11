@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmsoby
 - 👀 I’m interested in NLP, and Full Stack Web Development
 - 🌱 I’m currently studying a bachelors in Computer Science
-- 💞️ I’m looking to collaborate on anything, really
+- 🌱 I’m looking to collaborate on anything, really
 - 📫 Reach me at: mustafasoby@icloud.com
 
 <!---
