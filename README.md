@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mmsoby
 - 👀 I’m interested in NLP, AI, and backend development.
-- 🌱 I’m currently completing a masters in Computer Science
 - 📫 Reach me at: mustafasoby@icloud.com
 
 <!---
