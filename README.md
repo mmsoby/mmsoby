@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mmsoby
-- 👀 I’m interested in NLP, AI, and backend development.
 - 📫 Reach me at: mustafasoby@icloud.com
 
 <!---
